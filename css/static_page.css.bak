@@ -1,9 +1,13 @@
 .static_img img{
 	width:100%;
 }
+.static_img{
+	padding:5px;
+	background:url(../images/header_bg.png);
+}
 .staticPage{
 	background:url(../images/title_bg.png);
-	margin:4% 2% 2%;
+	margin:4% auto 2%;
 	padding:3%;
 }
 .staticpage_content p{

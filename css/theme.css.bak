@@ -18,8 +18,8 @@
     border-top: medium none !important;
 }
 .owl-demo .item{
-	width:70px;
-	height:70px;
+	width:100px;
+	height:100px;
 	display:table-cell;
 	/*background:url(../images/icon_bg.png) no-repeat;*/
 	vertical-align:middle;
@@ -65,8 +65,8 @@
 
 /* custom setting of icons */
 .app_feature_list a img{
-	max-height:32px;
-	max-width:32px;
+	max-height:65px;
+	max-width:57px;
 }
 
 
