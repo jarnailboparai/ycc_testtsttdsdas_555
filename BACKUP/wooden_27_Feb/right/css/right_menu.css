@@ -1,0 +1,24 @@
+.right_menu a.item {
+    background: url("../images/icon_bg.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    display: table-cell;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    width: 100px;
+}
+
+.right_menu {
+    height: 85%;
+    overflow-y: auto;
+	overflow-x: hidden;
+    position: absolute;
+    right: 0;
+	padding:57px 53px 0;
+}
+#rightpanel2.ui-panel{
+	background:url(../images/panel_bg.png) !important;
+	width:12em !important;
+}
+.ui-header {
+	z-index:100000;
+}

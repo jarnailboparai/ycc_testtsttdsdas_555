@@ -1,0 +1,21 @@
+.white_wrap{
+	background:url(../images/header_bg.png);
+	margin-bottom:11px;
+	padding:7px 0px;
+}
+.white_wrap table tr td:first-child{
+	padding-right:20px;
+	width:70px;
+	padding-left:20px;
+}
+.white_wrap table{
+	width:500px;
+}
+.white_wrap table tr td{
+	vertical-align:middle;
+	text-align:left;
+}
+.white_wrap .app_feature_list{
+	float:none;
+	width:auto;
+}

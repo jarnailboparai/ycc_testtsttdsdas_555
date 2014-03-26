@@ -1,0 +1,141 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>List Menu</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!-- Common Css Starts Here -->
+<link rel="stylesheet" href="../common/css/jquery.mobile-1.4.0.css" />
+<link rel="stylesheet" href="../common/css/theme.css" />
+<link rel="stylesheet" href="../common/css/common_layout.css" />
+
+<!-- Common Css Ends Here -->
+<link rel="stylesheet" href="css/grid_menu.css" />
+<link rel="stylesheet" href="css/custom-responsive.css" />
+<link rel="stylesheet" href="../common/css/custom_responsive.css" />
+<script src="../common/js/jquery_1.9.1.js"></script>
+<script src="../common/js/jquery.mobile-1.4.0.js"></script>
+<style type="text/css">
+img {
+	max-width:100%;
+}
+</style>
+</head>
+
+<body>
+<!-- Start of first page -->
+<div data-role="page" id="theme_layout" class="theme_bg">
+<!-- Right Menu -->
+
+
+<!-- Right Menu Ends Here -->
+  
+  
+  <div role="main" class="ui-content">
+  <!-- Logo of app -->
+    <div class="logo" align="center"><img src="../common/images/logo.png" alt="logo" /></div>
+  
+  
+  </div>
+  <!-- /content -->
+  
+  <div data-role="footer">
+    <div class="list_menu">
+    <div class="white_wrap">
+      <div class="app_feature_list"> 
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+      <tr><td>
+      <a class="item link" rel="external" data-ajax="false" href="../common/social.html"><img src="images/fb.png" /></a>
+      </td>
+      <td>
+       <a rel="external" data-ajax="false" href="../common/social.html">  <label>Add Facebook</label></a>
+        </td></tr></table>
+      
+      </div>
+      </div>
+      <div class="white_wrap">
+      <div class="app_feature_list"> 
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+      <tr><td>
+      <a class="item link" rel="external" data-ajax="false" href="../common/location.html"><img src="images/add_location.png" /></a>
+      </td>
+      <td>
+        <a rel="external" data-ajax="false" href="../common/location.html"> <label>Add Location</label></a>
+        </td></tr></table>
+      
+      </div>
+      </div>
+      
+      <div class="white_wrap">
+      <div class="app_feature_list"> 
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+      <tr><td>
+      <a class="item link" rel="external" data-ajax="false" href="../common/video_gallery.html"><img src="images/youtube.png" /></a>
+      </td>
+      <td>
+        <a rel="external" data-ajax="false" href="../common/video_gallery.html"><label>Video Gallery</label></a>
+        </td></tr></table>
+      
+      </div>
+      </div>
+      <div class="white_wrap">
+      <div class="app_feature_list"> 
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+      <tr><td>
+      <a class="item link" rel="external" data-ajax="false" href="../common/splash.html"><img src="images/add_phone.png" /></a>
+      </td>
+      <td>
+        <a rel="external" data-ajax="false" href="../common/splash.html"> <label>Splash Screen</label></a>
+        </td></tr></table>
+      
+      </div>
+      </div>
+      <div class="white_wrap">
+      <div class="app_feature_list"> 
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+      <tr><td>
+      <a class="item link" rel="external" data-ajax="false" href="../common/static_page_list.html"><img src="images/multiple_page.png" /></a>
+      </td>
+      <td>
+        <a rel="external" data-ajax="false" href="../common/static_page_list.html"> <label>Static Page</label></a>
+        </td></tr></table>
+      
+      </div>
+      </div>
+      <div class="white_wrap">
+      <div class="app_feature_list"> 
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+      <tr><td>
+      <a class="item link" rel="external" data-ajax="false" href="../common/picture_gallery.html"><img src="images/photo_gallery.png" /></a>
+      </td>
+      <td>
+        <a rel="external" data-ajax="false" href="../common/picture_gallery.html">  <label>Photo Gallery</label></a>
+        </td></tr></table>
+      
+      </div>
+      </div>
+      
+      
+      <div class="white_wrap">
+      <div class="app_feature_list"> 
+      <table cellpadding="0" cellspacing="0" border="0" align="center">
+      <tr><td>
+      <a class="item link" rel="external" data-ajax="false" href="../common/contact_us.html"><img src="images/contact_us_page_icon.png" /></a>
+      </td>
+      <td>
+         <a rel="external" data-ajax="false" href="../common/contact_us.html"><label>Contact Us</label></a>
+        </td></tr></table>
+      
+      </div>
+      </div>
+     
+    </div>
+  </div>
+  <!-- /footer --> 
+</div>
+<!-- /page --> 
+
+
+
+</body>
+</html>

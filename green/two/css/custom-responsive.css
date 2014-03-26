@@ -1,0 +1,39 @@
+@media (max-width: 1024px){
+	.logo{
+	padding:5% 0px 10%;
+	}	
+	.grid_menu{
+		width:220px;
+	}
+}
+@media (max-width: 768px){
+	.logo{
+	padding:28% 0px 20%;
+		}	
+}
+@media (max-width: 650px){
+	.logo {
+    padding-top:4%;
+    width: 410px;
+	}
+}
+@media (max-width: 650px) and (min-width:550px){
+	.logo {padding-bottom: 31%;padding-top: 2%;}
+}
+
+@media (max-width: 480px){
+	.logo{
+	padding:8% 0px 20%;
+	width:370px;
+	}	
+}
+
+@media (max-width: 320px){
+	.logo {
+    padding-top: 25%;
+    width: 262px;
+	}
+	.grid_menu{
+		width:228px;
+	}
+}

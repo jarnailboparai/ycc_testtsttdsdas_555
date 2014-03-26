@@ -1,0 +1,3 @@
+@media (max-width: 650px) and (min-width:550px){
+	.theme_bg{background:url("../../common/images/theme_background.jpg") no-repeat scroll center -251px / 100% auto rgba(0, 0, 0, 0) !important;}
+}

@@ -1,0 +1,72 @@
+
+.theme_bg{
+	background:#a6250f !important;
+	min-width:320px;
+	background-size:100% ;
+}
+.logo{
+	padding-top:28%;
+	transition:all ease .3s;
+	margin: 0 auto;
+}
+
+.ui-footer {
+    background: none repeat scroll 0 0 rgba(0, 0, 0, 0) !important;
+    border-bottom-width: 0;
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top: medium none !important;
+}
+.owl-demo .item{
+	width:100px;
+	height:100px;
+	display:table-cell;
+	/*background:url(../images/icon_bg.png) no-repeat;*/
+	vertical-align:middle;
+	text-align:center;
+}
+.ui-header{
+	background:url(../images/header_bg.png)  !important;
+	border:none !important;
+	
+}
+.ui-header a{
+	box-shadow:none;
+}
+.ui-header .ui-title, .ui-footer .ui-title{
+	text-shadow:none !important;
+	color:#fff !important;
+	font-size:24px;
+	font-weight:normal;
+	margin:0 23%;
+}
+.ui-icon-customrefresh:after {
+	background-image: url("../images/refresh_icon.png");
+	
+}
+.ui-icon-customrefresh:after{
+	background-color:none;
+	border:none;
+	border-radius:none;
+	height:42px;
+	width:42px;
+}
+.ui-header .ui-btn-icon-notext{
+	margin-top:11px;
+}
+.refresh_link,.help_link{
+	border:none !important;
+	background:none !important;
+}
+.refresh_link:hover,.refresh_link:active,.refresh_link:focus,.help_link:focus,.help_link:hover,.help_link:active{
+	box-shadow:none !important;
+}
+
+
+/* custom setting of icons */
+.app_feature_list a img{
+	max-height:65px;
+	max-width:57px;
+}
+
+

@@ -1,0 +1,15 @@
+.right_menu {
+    height: 85%;
+    overflow-y: auto;
+	overflow-x: hidden;
+    position: absolute;
+    right: 0;
+	padding:57px 53px 0;
+}
+#rightpanel2.ui-panel{
+	background:url(../images/panel_bg.png) !important;
+	width:12em !important;
+}
+.ui-header {
+	z-index:100000;
+}

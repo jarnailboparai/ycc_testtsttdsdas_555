@@ -1,0 +1,51 @@
+.theme_bg{
+	background:url(../images/theme_background.jpg) center top;
+}
+.logo{
+	padding-top:22%;
+	transition:all ease .3s;
+	margin: 0 auto;
+}
+
+.ui-footer{
+	background:none !important;
+	border-top:none !important;
+	border-width:0px;
+}
+
+
+.ui-header{
+	background:url(../images/header_bg.png) !important;
+	border:none !important;
+	z-index:1004;
+	
+}
+.ui-header .ui-title, .ui-footer .ui-title{
+	text-shadow:none !important;
+	color:#fff !important;
+	font-size:24px;
+	font-weight:normal;
+	margin:0 25%;
+}
+.ui-icon-customrefresh:after {
+	background-image: url("../images/refresh_icon.png");
+	
+}
+.ui-icon-customrefresh:after{
+	background-color:none;
+	border:none;
+	border-radius:none;
+	height:42px;
+	width:42px;
+}
+.ui-header .ui-btn-icon-notext{
+	margin-top:11px;
+}
+.refresh_link,.help_link{
+	border:none !important;
+	background:none !important;
+}
+.refresh_link:hover,.refresh_link:active,.refresh_link:focus,.help_link:focus,.help_link:hover,.help_link:active{
+	box-shadow:none !important;
+}
+

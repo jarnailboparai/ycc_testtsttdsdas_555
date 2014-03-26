@@ -1,0 +1,28 @@
+.list_menu a.item {
+    background: none;
+    display: table-cell;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    width: 100px;
+}
+.white_wrap{
+	border:1px solid #fff;
+	margin:0 5% 11px;
+	padding:7px 0px;
+}
+.white_wrap table tr td:first-child{
+	padding-right:20px;
+	width:100px;
+}
+.white_wrap table{
+	width:100%;
+}
+.white_wrap table tr td{
+	vertical-align:middle;
+	text-align:left;
+}
+.white_wrap .app_feature_list{
+	float:none;
+	width:auto;
+}
